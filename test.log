@@ -1,0 +1,43 @@
+2019-04-02 18:44:33,334:New file found: test.txt
+2019-04-02 18:44:33,334:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:33,334:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:44:38,337:Program uptime: 5.00480008125 seconds
+2019-04-02 18:44:38,338:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:38,338:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:44:43,343:Program uptime: 10.0104129314 seconds
+2019-04-02 18:44:43,343:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:43,344:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:44:48,345:Program uptime: 15.0132448673 seconds
+2019-04-02 18:44:48,346:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:48,347:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:44:53,350:Program uptime: 20.0175049305 seconds
+2019-04-02 18:44:53,353:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:53,354:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:44:58,357:Program uptime: 25.0245630741 seconds
+2019-04-02 18:44:58,357:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:44:58,358:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:45:03,360:Program uptime: 30.02800107 seconds
+2019-04-02 18:45:03,361:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:45:03,361:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:45:08,366:Program uptime: 35.0341470242 seconds
+2019-04-02 18:45:08,367:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:45:08,368:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:45:09,060:Received OS Signal: SIGTERM
+2019-04-02 18:45:09,060:Program uptime: 35.7276499271 seconds
+2019-04-02 18:45:49,236:New file found: test.txt
+2019-04-02 18:45:49,238:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:45:49,238:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:45:54,243:Program uptime: 5.00762987137 seconds
+2019-04-02 18:45:54,244:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:45:54,245:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:45:59,247:Program uptime: 10.0108978748 seconds
+2019-04-02 18:45:59,247:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:45:59,248:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:46:04,252:Program uptime: 15.0164358616 seconds
+2019-04-02 18:46:04,252:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:46:04,253:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:46:09,257:Program uptime: 20.0212419033 seconds
+2019-04-02 18:46:09,258:Searching /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt for instances of king
+2019-04-02 18:46:09,258:Match found for king found on line 7 in /Users/douglassenas/pythonProjects/dirwatcher/files/test.txt
+2019-04-02 18:46:13,835:Received OS Signal: SIGTERM
+2019-04-02 18:46:13,835:Program uptime: 24.5992918015 seconds
