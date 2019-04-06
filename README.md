@@ -3,5 +3,5 @@
 To run the dirwatcher, use the following command
 
 ```
-python dirwatcher.py --path <directory to search> --magic <text to search> --int 5
+python dirwatcher.py  <directory to watch>  <magic text to search> -e .txt -1 55
 ```
